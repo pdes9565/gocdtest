@@ -1,1 +1,1 @@
-console.log("TEST APP WORKS !");
+console.log("0 TEST APP WORKS !");
